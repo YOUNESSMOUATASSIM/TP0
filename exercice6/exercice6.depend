@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572736488 source:h:\tp_language_c\exercice6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
